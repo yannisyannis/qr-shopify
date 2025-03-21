@@ -1,0 +1,16 @@
+{
+    "page_title": "Scan QR Code",
+    "header_title": "Scannez un QR Code",
+    "camera_label": "Caméra",
+    "status_default": "Scannez un code...",
+    "status_valid": "QR code valide",
+    "status_invalid": "QR code invalide",
+    "status_invalid_format": "Format invalide",
+    "status_error": "Erreur de connexion",
+    "status_confirmed": "Remise confirmée !",
+    "button_confirm": "Confirmer la remise",
+    "label_name": "Nom",
+    "label_product": "Produit",
+    "label_quantity": "Quantité"
+  }
+  
